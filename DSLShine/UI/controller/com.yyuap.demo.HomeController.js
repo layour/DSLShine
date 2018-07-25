@@ -80,7 +80,7 @@ function download(){
 	/*$file.download({
 		"url" : "http://mobile.yyuap.com/static/res/app/UAPMobileApp.apk",//下载文件的url
 		"locate" : "uapdownload/web",//下载后文件存放的路径
-		"filename" : "DSLShine.apk",//下载后重命名的文件名
+		"filename" : "summershine.apk",//下载后重命名的文件名
 		"override" : "true",//下载后是否覆盖同名文件
 		"callback" : "downloadCB()"//下载后的回调方法,locate+filename可以访问文件(即download/image/newfile.png)
 	});*/
@@ -98,7 +98,7 @@ function downloadCB(){
 	//$js.hideLoadingBar();
 	/*$alert("下载成功");
 	$file.open({
-		"filename" : "DSLShine.apk",
+		"filename" : "summershine.apk",
 		"filetype" : "apk",
 		"filepath" : "uapdownload/web/"
 	});*/
