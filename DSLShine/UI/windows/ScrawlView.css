@@ -1,0 +1,66 @@
+ #ScrawlView {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+valign:TOP;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+background:#F5F5F5;
+layout:vbox;
+width:fill;
+valign:TOP;
+}
+ #navigatorbar0 {
+halign:LEFT;
+}
+ #button0 {
+padding-left:20;
+halign:left;
+height:44;
+pressed-image:btn_back_touch;
+width:88;
+background-image:btn_back;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #button2 {
+margin-right:10;
+height:44;
+widthWrap:42.0;
+color:#ffffff;
+font-size:20;
+width:wrap;
+font-pressed-color:#ffffff;
+}
+ #button1 {
+halign:right;
+height:44;
+widthWrap:42.0;
+color:#ffffff;
+font-size:20;
+width:wrap;
+font-pressed-color:#ffffff;
+}
+ #panel0 {
+height:0;
+weight:1;
+width:fill;
+out:scrawimage/newpage.png;
+}
+ #image0 {
+weight:1;
+height:0;
+width:fill;
+margin-top:10;
+}

@@ -1,0 +1,248 @@
+ #AboutTelView {
+halign:center;
+height:fill;
+width:fill;
+layout:vbox;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+width:fill;
+background:#F5F5F5;
+layout:vbox;
+}
+ #navigatorbar0 {
+}
+ #btn_back {
+height:44;
+width:88;
+}
+ #label0 {
+hAlign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+}
+ #label1 {
+hAlign:center;
+height:wrap;
+widthWrap:36.0;
+color:#ffffff;
+heightWrap:25.0;
+font-size:17;
+width:wrap;
+font-family:default;
+}
+ #panel0 {
+halign:center;
+height:0;
+weight:1;
+background:#f0f0f0;
+layout:vbox;
+width:fill;
+}
+ #panel1 {
+margin-right:22;
+height:60.0;
+layout:hbox;
+width:fill;
+margin-left:22;
+margin-top:20;
+valign:center;
+}
+ #image0 {
+height:44;
+width:44;
+}
+ #panel2 {
+halign:center;
+height:60.0;
+layout:vbox;
+width:fill;
+margin-left:20;
+}
+ #label2 {
+hAlign:left;
+height:30.0;
+color:#000000;
+font-size:17;
+width:fill;
+font-family:default;
+}
+ #label3 {
+hAlign:left;
+height:30.0;
+color:#000000;
+font-size:14;
+width:fill;
+font-family:default;
+}
+ #panel3 {
+border-bottom-style:solid;
+border-bottom-width:1;
+height:80;
+layout:hbox;
+width:fill;
+margin-left:16;
+margin-top:42;
+valign:center;
+border-bottom-color:#808080;
+}
+ #panel6 {
+halign:center;
+height:fill;
+weight:1;
+layout:vbox;
+width:0;
+}
+ #label4 {
+hAlign:left;
+height:23.0;
+color:#158aff;
+font-size:15;
+width:fill;
+margin-bottom:5;
+font-family:default;
+margin-top:12;
+}
+ #phonenumlabel {
+hAlign:left;
+height:30.0;
+color:#000000;
+font-size:17;
+width:fill;
+margin-bottom:10;
+font-family:default;
+}
+ #panel9 {
+height:fill;
+layout:hbox;
+width:25;
+valign:center;
+}
+ #sendMsgBtn {
+height:25;
+width:25;
+}
+ #panel10 {
+margin-right:16;
+height:fill;
+layout:hbox;
+width:25;
+margin-left:16;
+valign:center;
+}
+ #callphoneBtn {
+height:25;
+width:25;
+}
+ #panel4 {
+border-bottom-width:1;
+border-top-style:none;
+width:fill;
+border-right-style:none;
+border-bottom-color:#808080;
+border-top-width:0;
+border-bottom-style:solid;
+height:80;
+border-left-style:none;
+layout:hbox;
+border-right-width:0;
+margin-left:16;
+valign:center;
+border-left-width:0;
+}
+ #panel7 {
+halign:center;
+weight:1;
+height:fill;
+layout:vbox;
+width:0;
+}
+ #label6 {
+hAlign:left;
+height:23.0;
+color:#158aff;
+font-size:15;
+width:fill;
+margin-bottom:5;
+font-family:default;
+margin-top:12;
+}
+ #mailboxlabel {
+hAlign:left;
+height:30.0;
+color:#000000;
+font-size:17;
+width:fill;
+margin-bottom:10;
+font-family:default;
+}
+ #panel11 {
+margin-right:16;
+height:fill;
+layout:hbox;
+width:25;
+valign:center;
+}
+ #sendEmailBtn {
+margin-right:0;
+height:25;
+width:25;
+}
+ #panel5 {
+border-bottom-width:1;
+border-top-style:none;
+width:fill;
+border-right-style:none;
+border-bottom-color:#808080;
+border-top-width:0;
+border-bottom-style:solid;
+height:80;
+border-left-style:none;
+layout:hbox;
+border-right-width:0;
+margin-left:16;
+valign:center;
+border-left-width:0;
+}
+ #panel8 {
+halign:center;
+weight:1;
+height:fill;
+layout:vbox;
+width:0;
+}
+ #label8 {
+hAlign:left;
+height:23.0;
+color:#158aff;
+font-size:15;
+width:fill;
+margin-bottom:5;
+font-family:default;
+margin-top:12;
+}
+ #weburllabel {
+hAlign:left;
+height:30.0;
+color:#000000;
+font-size:17;
+width:fill;
+margin-bottom:10;
+font-family:default;
+}
+ #panel12 {
+margin-right:16;
+height:fill;
+layout:hbox;
+width:25;
+valign:center;
+}
+ #gotoWebBtn {
+height:25;
+width:25;
+}

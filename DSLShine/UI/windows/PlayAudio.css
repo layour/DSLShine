@@ -1,0 +1,64 @@
+ #PlayAudio {
+halign:center;
+height:fill;
+width:fill;
+layout:vbox;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+width:fill;
+background:#F5F5F5;
+layout:vbox;
+}
+ #navigatorbar0 {
+}
+ #btn_back {
+height:44;
+width:88;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+}
+ #panel0 {
+halign:center;
+height:0;
+weight:1;
+layout:vbox;
+background:#f0f0f0;
+width:fill;
+}
+ #audio0 {
+height:44;
+width:320;
+}
+ #panel1 {
+margin-right:22;
+height:60.0;
+layout:hbox;
+width:fill;
+margin-left:22;
+valign:center;
+}
+ #button0 {
+margin-right:5;
+height:44;
+weight:1;
+color:#ffffff;
+background:#42a0ff;
+width:0;
+}
+ #button1 {
+height:44;
+weight:1;
+color:#ffffff;
+background:#42a0ff;
+width:0;
+margin-left:5;
+}

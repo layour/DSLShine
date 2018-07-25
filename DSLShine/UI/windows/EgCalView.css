@@ -1,0 +1,239 @@
+ #EgCalView {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#F5F5F5;
+width:fill;
+}
+ #navigatorbar0 {
+}
+ #image5 {
+height:44;
+width:88;
+}
+ #label0 {
+hAlign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+}
+ #panel0 {
+halign:center;
+height:0;
+weight:1;
+layout:vbox;
+background:#f0f0f0;
+width:fill;
+}
+ #panel1 {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+margin-top:20;
+}
+ #panel2 {
+halign:CENTER;
+height:370;
+layout:relative;
+width:290;
+valign:CENTER;
+background-image:background.png;
+}
+ #btn0 {
+pressed-image:btnpress.png;
+width:50;
+font-pressed-color:#ffffff;
+height:35;
+color:#000000;
+font-size:20;
+left:20.0;
+background-image:btn.png;
+top:290.0;
+}
+ #btn2 {
+pressed-image:btnpress.png;
+width:50;
+font-pressed-color:#ffffff;
+height:35;
+color:#000000;
+font-size:20;
+left:90.0;
+background-image:btn.png;
+top:240.0;
+}
+ #btncheng {
+pressed-image:btnpress.png;
+width:50;
+font-pressed-color:#ffffff;
+height:35;
+color:#000000;
+font-size:20;
+left:160.0;
+background-image:btn.png;
+top:290.0;
+}
+ #btndeng {
+height:100.0;
+color:#e50011;
+width:50;
+left:224.0;
+font-pressed-color:#f2adb2;
+background-image:denghao.png;
+top:231.0;
+}
+ #btnjia {
+pressed-image:btnpress.png;
+width:50;
+font-pressed-color:#ffffff;
+height:35;
+color:#000000;
+font-size:20;
+left:220.0;
+background-image:btn.png;
+top:140.0;
+}
+ #btnjian {
+pressed-image:btnpress.png;
+width:50;
+font-pressed-color:#ffffff;
+height:35;
+color:#000000;
+font-size:20;
+left:220.0;
+background-image:btn.png;
+top:192.0;
+}
+ #btn9 {
+pressed-image:btnpress.png;
+width:50;
+font-pressed-color:#ffffff;
+height:35;
+color:#000000;
+font-size:20;
+left:158.0;
+background-image:btn.png;
+top:140.0;
+}
+ #panel3 {
+padding-left:5;
+padding-right:5;
+height:60.0;
+layout:hbox;
+width:250.0;
+left:20.0;
+valign:center;
+background-image:ping.png;
+top:30.0;
+}
+ #labelV {
+hAlign:left;
+height:40;
+weight:1;
+color:#000000;
+font-size:35;
+width:0;
+font-family:default;
+font-weight:bold;
+}
+ #imgResult {
+height:40;
+width:20;
+}
+ #btn4 {
+pressed-image:btnpress.png;
+width:50;
+font-pressed-color:#ffffff;
+height:35;
+color:#000000;
+font-size:20;
+left:20.0;
+background-image:btn.png;
+top:188.0;
+}
+ #btn7 {
+pressed-image:btnpress.png;
+width:50;
+font-pressed-color:#ffffff;
+height:35;
+color:#000000;
+font-size:20;
+left:20.0;
+background-image:btn.png;
+top:138.0;
+}
+ #btn8 {
+pressed-image:btnpress.png;
+width:50;
+font-pressed-color:#ffffff;
+height:35;
+color:#000000;
+font-size:20;
+left:90.0;
+background-image:btn.png;
+top:140.0;
+}
+ #btn5 {
+pressed-image:btnpress.png;
+width:50;
+font-pressed-color:#ffffff;
+height:35;
+color:#000000;
+font-size:20;
+left:91.0;
+background-image:btn.png;
+top:190.0;
+}
+ #btndian {
+pressed-image:btnpress.png;
+width:50;
+font-pressed-color:#ffffff;
+height:35;
+color:#000000;
+font-size:20;
+left:89.0;
+background-image:btn.png;
+top:290.0;
+}
+ #btn6 {
+pressed-image:btnpress.png;
+width:50;
+font-pressed-color:#ffffff;
+height:35;
+color:#000000;
+font-size:20;
+left:160.0;
+background-image:btn.png;
+top:189.0;
+}
+ #btn3 {
+pressed-image:btnpress.png;
+width:50;
+font-pressed-color:#ffffff;
+height:35;
+color:#000000;
+font-size:20;
+left:160.0;
+background-image:btn.png;
+top:240.0;
+}
+ #btn1 {
+pressed-image:btnpress.png;
+width:50;
+font-pressed-color:#ffffff;
+height:35;
+color:#000000;
+font-size:20;
+left:18.0;
+background-image:btn.png;
+top:241.0;
+}

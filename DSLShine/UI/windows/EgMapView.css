@@ -1,0 +1,105 @@
+ #EgMapView {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#F5F5F5;
+width:fill;
+}
+ #navigatorbar0 {
+}
+ #image5 {
+height:44;
+width:88;
+}
+ #label0 {
+hAlign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+}
+ #panel0 {
+margin-right:8;
+halign:center;
+height:0;
+weight:1;
+layout:vbox;
+width:fill;
+margin-left:8;
+margin-top:8;
+}
+ #mapview0 {
+location-img:mixedspot;
+height:0;
+weight:1;
+width:fill;
+around-img:maphot;
+background-image:map;
+}
+ #toolbar0 {
+padding-right:8;
+padding-left:8;
+height:44.0;
+layout:hbox;
+width:fill;
+valign:center;
+background-image:tabbar;
+}
+ #button0 {
+hAlign:left;
+widthWrap:72.0;
+color:#0080ff;
+font-size:17;
+width:wrap;
+margin-left:10;
+margin-bottom:5;
+margin-top:5;
+font-pressed-color:#0080ff;
+}
+ #label1 {
+hAlign:center;
+height:wrap;
+weight:1;
+color:#000000;
+heightWrap:44.0;
+font-size:14;
+width:0;
+font-family:default;
+}
+ #button1 {
+widthWrap:72.0;
+color:#0080ff;
+font-size:17;
+width:wrap;
+margin-bottom:5;
+margin-top:5;
+font-pressed-color:#0080ff;
+}
+ #label2 {
+hAlign:center;
+height:wrap;
+weight:1;
+color:#000000;
+heightWrap:44.0;
+font-size:14;
+width:0;
+font-family:default;
+}
+ #button2 {
+margin-right:10;
+widthWrap:72.0;
+color:#0080ff;
+font-size:17;
+width:wrap;
+margin-bottom:5;
+margin-top:5;
+font-pressed-color:#0080ff;
+}

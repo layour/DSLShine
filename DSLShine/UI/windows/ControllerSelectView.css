@@ -1,0 +1,218 @@
+ #ControllerSelectView {
+halign:center;
+height:fill;
+width:fill;
+layout:vbox;
+valign:TOP;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+width:fill;
+background:#F5F5F5;
+layout:vbox;
+valign:TOP;
+}
+ #navigatorbar0 {
+halign:LEFT;
+}
+ #backbtn {
+padding-left:20;
+halign:left;
+height:44;
+pressed-image:btn_back_touch;
+width:88;
+background-image:btn_back;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #panel0 {
+margin-right:22;
+halign:center;
+height:fill;
+layout:vbox;
+background:#ffffff;
+width:fill;
+margin-left:22;
+margin-top:8;
+valign:TOP;
+}
+ #panel7 {
+margin-right:22;
+halign:LEFT;
+height:45;
+layout:hbox;
+width:fill;
+margin-left:22;
+valign:center;
+}
+ #label1 {
+halign:center;
+height:wrap;
+widthWrap:54.0;
+color:#000000;
+heightWrap:25.0;
+font-size:17;
+width:wrap;
+font-family:default;
+valign:center;
+}
+ #label3 {
+halign:left;
+height:wrap;
+weight:1;
+color:#000000;
+heightWrap:25.0;
+font-size:17;
+width:0;
+font-family:default;
+valign:center;
+}
+ #switch1 {
+height:32;
+width:51;
+background:#167ef8;
+margin-left:20;
+background-image-dis:slideswitch;
+}
+ #panel1 {
+margin-right:22;
+halign:LEFT;
+height:45;
+layout:hbox;
+width:fill;
+margin-left:22;
+valign:center;
+}
+ #label2 {
+halign:center;
+height:wrap;
+widthWrap:54.0;
+color:#000000;
+heightWrap:25.0;
+font-size:17;
+width:wrap;
+font-family:default;
+valign:center;
+}
+ #label4 {
+halign:left;
+height:wrap;
+weight:1;
+color:#000000;
+heightWrap:25.0;
+font-size:17;
+width:0;
+font-family:default;
+valign:center;
+}
+ #switch0 {
+height:32;
+width:51;
+background:#167ef8;
+margin-left:20;
+background-image-dis:slideswitch;
+}
+ #panel2 {
+halign:left;
+height:160;
+layout:vbox;
+width:fill;
+background:#ffffff;
+valign:TOP;
+}
+ #label5 {
+halign:left;
+height:wrap;
+color:#000000;
+heightWrap:25.0;
+font-size:17;
+width:144.0;
+margin-left:22;
+font-family:default;
+margin-top:10;
+valign:center;
+}
+ #panel3 {
+margin-right:22;
+halign:LEFT;
+height:40;
+layout:hbox;
+width:fill;
+margin-left:22;
+valign:center;
+}
+ #checkbox2 {
+height:44;
+width:44;
+check-on-image:checkbox_select;
+check-off-image:checkbox_noselect;
+}
+ #label6 {
+halign:left;
+height:wrap;
+color:#000000;
+heightWrap:23.0;
+font-size:16;
+width:fill;
+font-family:default;
+valign:center;
+}
+ #panel4 {
+margin-right:22;
+halign:LEFT;
+height:40;
+layout:hbox;
+width:fill;
+margin-left:22;
+valign:center;
+}
+ #checkbox0 {
+height:44;
+width:44;
+check-on-image:checkbox_select;
+check-off-image:checkbox_noselect;
+}
+ #label7 {
+halign:left;
+height:wrap;
+color:#000000;
+heightWrap:23.0;
+font-size:16;
+width:fill;
+font-family:default;
+valign:center;
+}
+ #panel5 {
+margin-right:22;
+halign:LEFT;
+height:40;
+layout:hbox;
+width:fill;
+margin-left:22;
+valign:center;
+}
+ #checkbox1 {
+height:44;
+width:44;
+check-on-image:checkbox_select;
+check-off-image:checkbox_noselect;
+}
+ #label8 {
+halign:left;
+height:wrap;
+color:#000000;
+heightWrap:23.0;
+font-size:16;
+width:fill;
+font-family:default;
+valign:center;
+}

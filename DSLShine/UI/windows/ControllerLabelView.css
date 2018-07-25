@@ -1,0 +1,102 @@
+ #ControllerLabelView {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+valign:TOP;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#F5F5F5;
+width:fill;
+valign:TOP;
+}
+ #navigatorbar0 {
+halign:LEFT;
+}
+ #backbtn {
+padding-left:20;
+halign:left;
+height:44;
+pressed-image:btn_back_touch;
+width:88;
+background-image:btn_back;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #panel0 {
+margin-right:22;
+halign:left;
+height:fill;
+layout:vbox;
+width:fill;
+margin-left:22;
+margin-top:8;
+valign:TOP;
+}
+ #label1 {
+padding-left:10;
+halign:left;
+height:40;
+color:#ffffff;
+font-size:16;
+background:#4da6ff;
+width:fill;
+font-family:default;
+valign:center;
+}
+ #label2 {
+halign:center;
+height:40;
+color:#ffffff;
+font-size:16;
+background:#4da6ff;
+width:fill;
+margin-bottom:10;
+font-family:default;
+margin-top:10;
+valign:center;
+}
+ #label3 {
+padding-right:10;
+halign:right;
+height:40;
+color:#ffffff;
+font-size:16;
+background:#4da6ff;
+width:fill;
+font-family:default;
+valign:center;
+}
+ #label4 {
+halign:left;
+height:150;
+color:#ffffff;
+background:#4da6ff;
+font-size:16;
+width:fill;
+font-family:default;
+margin-top:10;
+valign:top;
+}
+ #label5 {
+halign:left;
+height:40;
+color:#000000;
+font-size:16;
+background:#4da6ff;
+width:fill;
+font-family:default;
+margin-top:10;
+valign:center;
+}

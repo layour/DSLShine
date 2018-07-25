@@ -1,0 +1,44 @@
+ #EgGameView {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#F5F5F5;
+width:fill;
+}
+ #navigatorbar0 {
+}
+ #image5 {
+height:44;
+width:88;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+}
+ #rounddiv0 {
+padding-right:8;
+padding-left:8;
+halign:center;
+height:fill;
+background:#ffffff;
+layout:vbox;
+width:fill;
+margin-top:8;
+}
+ #webcontrol0 {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+}

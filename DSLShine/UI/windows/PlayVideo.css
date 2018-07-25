@@ -1,0 +1,47 @@
+ #PlayVideo {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+valign:TOP;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#F5F5F5;
+width:fill;
+valign:TOP;
+}
+ #navigatorbar0 {
+halign:LEFT;
+}
+ #btn_back {
+height:44;
+width:88;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #panel0 {
+margin-right:8;
+halign:center;
+height:0;
+weight:1;
+layout:vbox;
+width:fill;
+margin-left:8;
+margin-top:8;
+valign:TOP;
+}
+ #video0 {
+height:350;
+width:fill;
+}

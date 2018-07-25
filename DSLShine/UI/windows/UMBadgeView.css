@@ -1,0 +1,73 @@
+ #UMBadgeView {
+halign:center;
+height:fill;
+width:fill;
+layout:vbox;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+width:fill;
+background:#f0f0f0;
+layout:vbox;
+}
+ #navigatorbar0 {
+}
+ #image5 {
+height:44;
+width:88;
+}
+ #label0 {
+hAlign:center;
+weight:1;
+height:fill;
+color:#000000;
+width:0;
+font-size:14;
+font-family:default;
+}
+ #panel0 {
+halign:center;
+height:0;
+weight:1;
+layout:relative;
+width:fill;
+}
+ #label1 {
+hAlign:center;
+height:20;
+color:#000000;
+width:fill;
+font-size:17;
+left:0.0;
+font-family:default;
+margin-top:10;
+top:20.0;
+}
+ #redpanel {
+height:50;
+background:#ff0000;
+width:50;
+layout:hbox;
+left:40.0;
+valign:center;
+top:70.0;
+}
+ #greenpanel {
+height:50;
+background:#00ff00;
+width:50;
+layout:hbox;
+left:120.0;
+valign:center;
+top:70.0;
+}
+ #bluepanel {
+height:50;
+background:#0080ff;
+width:50;
+layout:hbox;
+left:200.0;
+valign:center;
+top:70.0;
+}

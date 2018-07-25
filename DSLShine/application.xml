@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<application id="DSLShine" appname="DSLShine" use-uapwelcome="false" versionCode="1" versionName="1" icon="shine_app" theme="blue" package="com.yyuap.demo" language="zh_cn" autoCheckUpdate="false" isLibrary="false" push_enable="false" jsengine="v2.0"> 
+  <permission id="internet"/>  
+  <start view="Home"/>  
+  <!--view id="demo" ref="demo.dsl"><extend screenOrientation="landscape|portrait|unspecified"/></view-->  
+  <!--view id="demo" ref="demo.dsl"><extend windowSoftInputMode="stateUnspecified|stateUnchanged|stateHidden|stateAlwaysHidden|stateVisible|stateAlwaysVisible|adjustUnspecified|adjustResize|adjustPan"/></view-->  
+  <view id="DivHBoxView" ref="DivHBoxView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="ServiceView" ref="ServiceView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="PlayImageFlipper" ref="PlayImageFlipper.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="UMSQLiteTest" ref="UMSQLiteTest.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="ControllerPickerView" ref="ControllerPickerView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="AboutTelUpdateView" ref="AboutTelUpdateView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="AboutTelView" ref="AboutTelView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="ViewWithAnimation" ref="ViewWithAnimation.dsl" include="true"/>  
+  <view id="ControllerChartView" ref="ControllerChartView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="UMFileTest" ref="UMFileTest.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="UMCallbackView" ref="UMCallbackView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="ControllerPieChart" ref="ControllerPieChart.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="ControllerDivView" ref="ControllerDivView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="DivVBoxView" ref="DivVBoxView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="CommonView" ref="CommonView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="AboutDeviceView" ref="AboutDeviceView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="UMPushTest" ref="UMPushTest.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="UMServiceTest" ref="UMServiceTest.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="ControllerInputView" ref="ControllerInputView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="ControllerListViewTest" ref="ControllerListViewTest.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="AboutHttpView" ref="AboutHttpView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="Home" ref="Home.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="EgMapView" ref="EgMapView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="UMDeviceTest" ref="UMDeviceTest.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="UMNetworkTest" ref="UMNetworkTest.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="EgGameView" ref="EgGameView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="ControllerProgressView" ref="ControllerProgressView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="ControllerWebView" ref="ControllerWebView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="EgCalView" ref="EgCalView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="EgAnimationView" ref="EgAnimationView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="ControllerButtonView" ref="ControllerButtonView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="DivComplexView" ref="DivComplexView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="EgTimerView" ref="EgTimerView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="ControllerLabelView" ref="ControllerLabelView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="PlayAudio" ref="PlayAudio.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="ControllerListView" ref="ControllerListView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="PersonDetails" ref="PersonDetails.dsl" include="true"/>  
+  <view id="ControllerGroupListView" ref="ControllerGroupListView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="ControllerSelectView" ref="ControllerSelectView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="EgTouchView" ref="EgTouchView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="ExampleView" ref="ExampleView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="PlayRecoder" ref="PlayRecoder.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="WelcomePage" ref="WelcomePage.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="ControllerLineChart" ref="ControllerLineChart.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="UMBadgeTest" ref="UMBadgeTest.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="UMMenuTest" ref="UMMenuTest.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="UMViewTest" ref="UMViewTest.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="AboutCameraView" ref="AboutCameraView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="ControllerImageSelectView" ref="ControllerImageSelectView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="ControllerToggleView" ref="ControllerToggleView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="ControllerMediaView" ref="ControllerMediaView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="AboutServerView" ref="AboutServerView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="PlayVideo" ref="PlayVideo.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="ControllerView" ref="ControllerView.dsl" include="true"> 
+    <extend screenOrientation="portrait"/> 
+  </view>  
+  <view id="PlayImageFlipperDynamic" ref="PlayImageFlipperDynamic.dsl" include="true"/>  
+  <import id="push" type="mobile" ref="component"/>  
+  <import id="gaodeMap" type="mobile" ref="component"/>  
+  <import id="twoDimensionCode" type="mobile" ref="component"/>  
+  <view id="ControllerSlideview" ref="ControllerSlideview.dsl" include="true"/>  
+  <view id="QIU" ref="QIU.dsl" include="true"/>  
+  <view id="DongHua" ref="DongHua.dsl" include="true"/>  
+  <view id="ControllerMultiImagesView" ref="ControllerMultiImagesView.dsl" include="true"/>  
+  <view id="ImageScrollTest" ref="ImageScrollTest.dsl" include="true"/>  
+  <view id="ListTest" ref="ListTest.dsl" include="true"/>  
+  <view id="ListWithItemcreate" ref="ListWithItemcreate.dsl" include="true"/>  
+  <view id="ChartTest" ref="ChartTest.dsl" include="true"/>  
+  <view id="ExampleSwipeView" ref="ExampleSwipeView.dsl" include="true"/>  
+  <view id="Input_focus" ref="Input_focus.dsl" include="true"/>  
+  <view id="UMFileListView" ref="UMFileListView.dsl" include="true"/>  
+  <view id="AddUser" ref="AddUser.dsl" include="true"/>  
+  <view id="SendMailTestView" ref="SendMailTestView.dsl" include="true"/>  
+  <view id="WeiXinDlg" ref="WeiXinDlg.dlg" include="true"/>  
+  <view id="WeixinTest" ref="WeixinTest.dsl" include="true"/>  
+  <view id="WeiXinShareResult" ref="WeiXinShareResult.dsl" include="true"/>  
+  <view id="ScrawlView" ref="ScrawlView.dsl" include="true"/> 
+</application>
+<!--
+screenOrientation
+屏幕显示方向 
+landscape: 横向
+portrait: 竖向
+windowSoftInputMode
+View与软键盘的交互模式，可以用来避免输入法面板遮挡问题，主要控制
+a.当有焦点产生时，软键盘是隐藏还是显示
+b.是否减少活动主窗口大小以便腾出空间放软键盘
+属性说明
+stateUnspecified：软键盘的状态并没有指定，系统将选择一个合适的状态或依赖于主题的设置
+stateUnchanged：当这个activity出现时，软键盘将一直保持在上一个activity里的状态，无论是隐藏还是显示
+stateHidden：用户选择activity时，软键盘总是被隐藏
+stateAlwaysHidden：当该Activity主窗口获取焦点时，软键盘也总是被隐藏的
+stateVisible：软键盘通常是可见的
+stateAlwaysVisible：用户选择activity时，软键盘总是显示的状态
+adjustUnspecified：默认设置，通常由系统自行决定是隐藏还是显示
+adjustPan：当前窗口的内容将自动移动以便当前焦点从不被键盘覆盖和用户能总是看到输入内容的部分
+-->

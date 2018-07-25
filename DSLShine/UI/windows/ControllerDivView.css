@@ -1,0 +1,176 @@
+ #ControllerDivView {
+halign:center;
+height:fill;
+width:fill;
+layout:vbox;
+valign:TOP;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+width:fill;
+background:#F5F5F5;
+layout:vbox;
+valign:TOP;
+}
+ #navigatorbar0 {
+halign:LEFT;
+}
+ #btn_back {
+height:44;
+width:88;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #panel0 {
+margin-right:22;
+halign:center;
+height:0;
+weight:1;
+background:#ffffff;
+layout:vbox;
+width:fill;
+margin-left:22;
+margin-top:8;
+valign:TOP;
+}
+ #panel1 {
+halign:center;
+height:fill;
+background:#ffffff;
+layout:vbox;
+width:fill;
+valign:TOP;
+}
+ #panel2 {
+halign:LEFT;
+height:60;
+layout:hbox;
+width:fill;
+valign:center;
+}
+ #label1 {
+halign:left;
+height:fill;
+weight:1;
+color:#000000;
+font-size:17;
+width:0;
+margin-left:15;
+font-family:default;
+valign:center;
+}
+ #image0 {
+margin-right:15;
+height:12;
+width:8;
+}
+ #panel3 {
+halign:LEFT;
+height:1;
+background:#c0c0c0;
+layout:hbox;
+width:fill;
+valign:center;
+}
+ #panel4 {
+halign:LEFT;
+height:60;
+layout:hbox;
+width:fill;
+valign:center;
+}
+ #label2 {
+halign:left;
+height:fill;
+weight:1;
+color:#000000;
+font-size:17;
+width:0;
+margin-left:15;
+font-family:default;
+valign:center;
+}
+ #image1 {
+margin-right:15;
+height:12;
+width:8;
+}
+ #panel5 {
+halign:LEFT;
+height:1;
+layout:hbox;
+background:#c0c0c0;
+width:fill;
+valign:center;
+}
+ #panel6 {
+halign:LEFT;
+height:60;
+layout:hbox;
+width:fill;
+valign:center;
+}
+ #label3 {
+halign:left;
+height:fill;
+weight:1;
+color:#000000;
+font-size:17;
+width:0;
+margin-left:15;
+font-family:default;
+valign:center;
+}
+ #image2 {
+margin-right:15;
+height:12;
+width:8;
+}
+ #panel7 {
+halign:LEFT;
+height:1;
+layout:hbox;
+background:#c0c0c0;
+width:fill;
+valign:center;
+}
+ #panel8 {
+halign:LEFT;
+height:60;
+layout:hbox;
+width:fill;
+valign:center;
+}
+ #label4 {
+halign:left;
+height:fill;
+weight:1;
+color:#000000;
+font-size:17;
+width:0;
+margin-left:15;
+font-family:default;
+valign:center;
+}
+ #image3 {
+margin-right:15;
+height:12;
+width:8;
+}
+ #panel9 {
+halign:LEFT;
+height:1;
+layout:hbox;
+background:#c0c0c0;
+width:fill;
+valign:center;
+}

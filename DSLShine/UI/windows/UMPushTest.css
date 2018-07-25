@@ -1,0 +1,57 @@
+ #UMPushTest {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#F5F5F5;
+width:fill;
+}
+ #navigatorbar0 {
+}
+ #button0 {
+padding-left:20;
+hAlign:left;
+height:44;
+pressed-image:btn_back_touch;
+width:88;
+background-image:btn_back;
+}
+ #label0 {
+hAlign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+}
+ #panel0 {
+margin-right:22;
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+margin-left:22;
+margin-top:8;
+}
+ #panel1 {
+height:60.0;
+layout:hbox;
+width:fill;
+valign:center;
+}
+ #button1 {
+height:44;
+weight:1;
+width:0;
+}
+ #button2 {
+height:44;
+weight:1;
+width:0;
+}

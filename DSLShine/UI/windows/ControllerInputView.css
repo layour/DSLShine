@@ -1,0 +1,291 @@
+ #ControllerInputView {
+halign:center;
+height:800;
+layout:vbox;
+width:fill;
+valign:TOP;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#F5F5F5;
+width:fill;
+valign:TOP;
+}
+ #navigatorbar0 {
+halign:LEFT;
+}
+ #backbtn {
+padding-left:20;
+halign:left;
+height:44;
+pressed-image:btn_back_touch;
+width:88;
+background-image:btn_back;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #panel0 {
+halign:center;
+height:wrap;
+layout:vbox;
+background:#ffffff;
+width:fill;
+valign:TOP;
+}
+ #panel1 {
+halign:LEFT;
+height:50;
+layout:hbox;
+width:fill;
+valign:center;
+}
+ #label1 {
+halign:center;
+height:wrap;
+color:#000000;
+heightWrap:23.0;
+font-size:16;
+width:80;
+font-family:default;
+valign:center;
+}
+ #textbox0 {
+padding-left:4;
+margin-right:5;
+halign:LEFT;
+height:44;
+color:#167ef8;
+font-size:17;
+background:#ffffff;
+width:fill;
+font-family:default;
+}
+ #panel2 {
+halign:LEFT;
+height:50;
+layout:hbox;
+width:fill;
+valign:center;
+}
+ #label2 {
+halign:center;
+height:wrap;
+color:#000000;
+heightWrap:23.0;
+font-size:16;
+width:80;
+font-family:default;
+valign:center;
+}
+ #number0 {
+padding-left:4;
+margin-right:5;
+halign:LEFT;
+height:44;
+color:#167ef8;
+font-size:17;
+background:#ffffff;
+width:fill;
+font-family:default;
+}
+ #panel3 {
+halign:LEFT;
+height:50;
+layout:hbox;
+width:fill;
+valign:center;
+}
+ #label3 {
+halign:center;
+height:wrap;
+color:#000000;
+heightWrap:23.0;
+font-size:16;
+width:80;
+font-family:default;
+valign:center;
+}
+ #email0 {
+padding-left:4;
+margin-right:5;
+halign:LEFT;
+height:44;
+color:#167ef8;
+font-size:17;
+background:#ffffff;
+width:fill;
+font-family:default;
+}
+ #panel4 {
+halign:LEFT;
+height:50;
+layout:hbox;
+width:fill;
+valign:center;
+}
+ #label4 {
+halign:center;
+height:wrap;
+color:#000000;
+heightWrap:23.0;
+font-size:16;
+width:80;
+font-family:default;
+valign:center;
+}
+ #dateinput0 {
+padding-left:4;
+margin-right:5;
+halign:LEFT;
+height:44;
+color:#167ef8;
+font-size:17;
+background:#ffffff;
+width:fill;
+font-family:default;
+}
+ #panel5 {
+halign:LEFT;
+height:50;
+layout:hbox;
+width:fill;
+valign:center;
+}
+ #label5 {
+halign:center;
+height:wrap;
+color:#000000;
+heightWrap:23.0;
+font-size:16;
+width:80;
+font-family:default;
+valign:center;
+}
+ #timeinput0 {
+padding-left:4;
+margin-right:5;
+halign:LEFT;
+height:44;
+color:#167ef8;
+font-size:17;
+background:#ffffff;
+width:fill;
+font-family:default;
+}
+ #panel6 {
+halign:LEFT;
+height:50;
+layout:hbox;
+width:fill;
+valign:center;
+}
+ #label6 {
+halign:center;
+height:wrap;
+color:#000000;
+heightWrap:23.0;
+font-size:16;
+width:80;
+font-family:default;
+valign:center;
+}
+ #datetimeinput0 {
+padding-left:4;
+margin-right:5;
+halign:LEFT;
+height:44;
+color:#167ef8;
+font-size:17;
+background:#ffffff;
+width:fill;
+font-family:default;
+}
+ #panel7 {
+border-bottom-width:1;
+border-top-style:solid;
+halign:LEFT;
+width:fill;
+margin-bottom:5;
+border-right-style:solid;
+border-bottom-color:#808080;
+border-top-width:1;
+border-bottom-style:solid;
+margin-right:5;
+border-left-color:#808080;
+border-top-color:#808080;
+height:150;
+border-left-style:solid;
+border-right-color:#808080;
+layout:hbox;
+margin-left:5;
+border-right-width:1;
+margin-top:5;
+valign:center;
+border-left-width:1;
+}
+ #textarea0 {
+padding-left:4;
+padding-top:14;
+halign:LEFT;
+width:fill;
+margin-bottom:5;
+padding-bottom:14;
+margin-right:5;
+height:fill;
+color:#167ef8;
+font-size:17;
+background:#ffffff;
+margin-left:5;
+font-family:default;
+margin-top:5;
+}
+ #panel8 {
+border-bottom-width:1;
+border-top-style:solid;
+halign:LEFT;
+width:fill;
+margin-bottom:5;
+border-right-style:solid;
+border-bottom-color:#808080;
+border-top-width:1;
+border-bottom-style:solid;
+margin-right:5;
+border-left-color:#808080;
+border-top-color:#808080;
+height:150;
+border-left-style:solid;
+border-right-color:#808080;
+layout:hbox;
+margin-left:5;
+border-right-width:1;
+margin-top:5;
+valign:center;
+border-left-width:1;
+}
+ #textarea1 {
+padding-left:4;
+padding-top:14;
+halign:LEFT;
+width:fill;
+margin-bottom:10;
+padding-bottom:14;
+margin-right:5;
+height:fill;
+color:#167ef8;
+font-size:17;
+background:#ffffff;
+margin-left:5;
+font-family:default;
+margin-top:5;
+line-spacing:15;
+}

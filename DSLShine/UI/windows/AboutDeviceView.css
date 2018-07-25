@@ -1,0 +1,180 @@
+ #AboutDeviceView {
+halign:center;
+height:fill;
+width:fill;
+layout:vbox;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+width:fill;
+background:#F5F5F5;
+layout:vbox;
+}
+ #navigatorbar0 {
+}
+ #image5 {
+height:44;
+width:88;
+}
+ #label0 {
+hAlign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+}
+ #panel0 {
+halign:center;
+height:0;
+weight:1;
+layout:vbox;
+background:#f0f0f0;
+width:fill;
+}
+ #panel1 {
+margin-right:10;
+height:100;
+layout:hbox;
+width:fill;
+margin-left:10;
+margin-top:14;
+valign:center;
+}
+ #panel4 {
+margin-right:7;
+halign:center;
+height:fill;
+weight:1;
+layout:vbox;
+background:#ff6060;
+width:0;
+}
+ #image0 {
+height:50;
+width:70;
+margin-top:10;
+}
+ #label1 {
+hAlign:center;
+height:wrap;
+widthWrap:76.0;
+color:#ffffff;
+heightWrap:26.0;
+font-size:18;
+width:wrap;
+font-family:default;
+margin-top:10;
+}
+ #panel5 {
+halign:center;
+height:fill;
+weight:1;
+layout:vbox;
+background:#00aa2b;
+width:0;
+margin-left:7;
+}
+ #image1 {
+height:50;
+width:70;
+margin-top:10;
+}
+ #label2 {
+hAlign:center;
+height:wrap;
+widthWrap:76.0;
+color:#ffffff;
+heightWrap:26.0;
+font-size:18;
+width:wrap;
+font-family:default;
+margin-top:10;
+}
+ #panel2 {
+margin-right:10;
+height:100;
+layout:hbox;
+width:fill;
+margin-left:10;
+margin-top:14;
+valign:center;
+}
+ #panel6 {
+margin-right:7;
+halign:center;
+height:fill;
+weight:1;
+layout:vbox;
+background:#dd6f00;
+width:0;
+}
+ #image2 {
+height:50;
+width:70;
+margin-top:10;
+}
+ #label3 {
+hAlign:center;
+height:wrap;
+widthWrap:114.0;
+color:#ffffff;
+heightWrap:26.0;
+font-size:18;
+width:wrap;
+font-family:default;
+margin-top:10;
+}
+ #panel7 {
+halign:center;
+height:fill;
+weight:1;
+layout:vbox;
+background:#3c9dff;
+width:0;
+margin-left:7;
+}
+ #image3 {
+height:50;
+width:70;
+margin-top:10;
+}
+ #label4 {
+hAlign:center;
+height:wrap;
+widthWrap:114.0;
+color:#ffffff;
+heightWrap:26.0;
+font-size:18;
+width:wrap;
+font-family:default;
+margin-top:10;
+}
+ #panel3 {
+margin-right:10;
+halign:center;
+height:100;
+layout:vbox;
+background:#bc79ff;
+width:fill;
+margin-left:10;
+margin-top:14;
+}
+ #image4 {
+height:50;
+width:70;
+margin-top:10;
+}
+ #label5 {
+hAlign:center;
+height:wrap;
+widthWrap:76.0;
+color:#ffffff;
+heightWrap:26.0;
+font-size:18;
+width:wrap;
+font-family:default;
+margin-top:10;
+}

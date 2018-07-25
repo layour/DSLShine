@@ -1,0 +1,167 @@
+ #ControllerToggleView {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#F5F5F5;
+width:fill;
+}
+ #navigatorbar0 {
+}
+ #backbtn {
+padding-left:20;
+halign:left;
+height:44;
+pressed-image:btn_back_touch;
+width:88;
+background-image:btn_back;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #panel0 {
+margin-right:22;
+halign:center;
+height:fill;
+background:#ffffff;
+layout:vbox;
+width:fill;
+margin-left:22;
+margin-top:8;
+}
+ #togglebuttongroup1 {
+margin-right:10;
+height:44;
+layout:hbox;
+width:240;
+margin-left:10;
+valign:center;
+}
+ #togglebutton3 {
+halign:center;
+background-image-off:label_3_left.png;
+width:80.0;
+font-pressed-color:#ffffff;
+background-image-on:label_3_left_touch.png;
+height:42.0;
+color:#208fff;
+font-size:17;
+font-family:default;
+valign:center;
+background-color-on:;
+}
+ #togglebutton4 {
+halign:center;
+height:42.0;
+background-image-off:label_3_middle.png;
+color:#208fff;
+font-size:17;
+width:80.0;
+font-family:default;
+font-pressed-color:#ffffff;
+valign:center;
+background-image-on:label_3_middle_touch.png;
+}
+ #togglebutton5 {
+halign:center;
+height:42.0;
+background-image-off:label_3_right.png;
+color:#208fff;
+font-size:17;
+width:80.0;
+font-family:default;
+font-pressed-color:#ffffff;
+valign:center;
+background-image-on:label_3_right_touch.png;
+}
+ #flipperdefine0 {
+halign:center;
+height:0;
+weight:1;
+layout:vbox;
+width:fill;
+}
+ #panel1 {
+halign:center;
+height:fill;
+background:#ffffff;
+layout:vbox;
+width:fill;
+}
+ #panel3 {
+height:fill;
+layout:hbox;
+background:#5e81d2;
+width:fill;
+margin-bottom:30;
+valign:center;
+}
+ #label1 {
+halign:center;
+height:fill;
+color:#ffffff;
+font-size:80;
+width:fill;
+font-family:default;
+valign:center;
+}
+ #panel2 {
+halign:center;
+height:fill;
+background:#ffffff;
+layout:vbox;
+width:fill;
+}
+ #panel5 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#76c043;
+width:fill;
+margin-bottom:30;
+}
+ #label2 {
+halign:center;
+height:fill;
+color:#ffffff;
+font-size:80;
+width:fill;
+font-family:default;
+valign:center;
+}
+ #panel4 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#ffffff;
+width:fill;
+}
+ #panel6 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#ff7e32;
+width:fill;
+margin-bottom:30;
+}
+ #label3 {
+halign:center;
+height:fill;
+color:#ffffff;
+font-size:80;
+width:fill;
+font-family:default;
+valign:center;
+}

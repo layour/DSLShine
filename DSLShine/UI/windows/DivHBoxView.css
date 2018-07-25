@@ -1,0 +1,236 @@
+ #DivHBoxView {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#F5F5F5;
+width:fill;
+}
+ #navigatorbar0 {
+}
+ #btn_back {
+height:44;
+width:88;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #panel0 {
+margin-right:22;
+halign:center;
+height:0;
+weight:1;
+layout:vbox;
+background:#ffffff;
+width:fill;
+margin-left:22;
+margin-top:8;
+}
+ #panel1 {
+padding-left:5;
+padding-right:5;
+halign:center;
+height:fill;
+background:#ffffff;
+layout:vbox;
+width:fill;
+}
+ #label1 {
+halign:left;
+height:wrap;
+color:#000000;
+heightWrap:25.0;
+font-size:17;
+width:fill;
+margin-left:5;
+font-family:default;
+margin-top:5;
+valign:center;
+}
+ #panel2 {
+height:1;
+layout:hbox;
+background:#808080;
+width:fill;
+valign:center;
+}
+ #panel3 {
+height:50;
+layout:hbox;
+background:#3e9eff;
+width:fill;
+margin-top:5;
+valign:center;
+}
+ #button0 {
+widthWrap:45.0;
+width:wrap;
+font-pressed-color:#f2adb2;
+margin-right:5;
+height:35;
+color:#0080ff;
+background:#ffffff;
+margin-left:5;
+}
+ #button1 {
+widthWrap:45.0;
+width:wrap;
+font-pressed-color:#f2adb2;
+margin-right:5;
+height:35;
+color:#0080ff;
+background:#ffffff;
+margin-left:5;
+}
+ #button2 {
+widthWrap:45.0;
+width:wrap;
+font-pressed-color:#f2adb2;
+margin-right:5;
+height:35;
+color:#0080ff;
+background:#ffffff;
+margin-left:5;
+}
+ #panel4 {
+height:1;
+layout:hbox;
+background:#808080;
+width:fill;
+valign:center;
+}
+ #label4 {
+halign:left;
+height:wrap;
+color:#000000;
+heightWrap:25.0;
+font-size:17;
+width:fill;
+margin-left:5;
+font-family:default;
+margin-top:10;
+valign:center;
+}
+ #panel8 {
+height:1;
+layout:hbox;
+background:#808080;
+width:fill;
+valign:center;
+}
+ #panel9 {
+height:50;
+background:#3e9eff;
+layout:hbox;
+width:fill;
+margin-top:5;
+valign:center;
+}
+ #button9 {
+weight:1;
+width:0;
+font-pressed-color:#f2adb2;
+margin-right:5;
+height:35;
+color:#0080ff;
+background:#ffffff;
+margin-left:5;
+}
+ #button10 {
+widthWrap:54.0;
+width:wrap;
+font-pressed-color:#f2adb2;
+margin-right:5;
+height:35;
+color:#0080ff;
+background:#ffffff;
+margin-left:5;
+}
+ #panel5 {
+height:50;
+background:#3e9eff;
+layout:hbox;
+width:fill;
+margin-top:5;
+valign:center;
+}
+ #button3 {
+weight:2;
+width:0;
+font-pressed-color:#f2adb2;
+margin-right:5;
+height:35;
+color:#0080ff;
+background:#ffffff;
+margin-left:5;
+}
+ #button4 {
+widthWrap:54.0;
+width:wrap;
+font-pressed-color:#f2adb2;
+margin-right:5;
+height:35;
+color:#0080ff;
+background:#ffffff;
+margin-left:5;
+}
+ #button7 {
+widthWrap:54.0;
+width:wrap;
+font-pressed-color:#f2adb2;
+margin-right:5;
+height:35;
+color:#0080ff;
+background:#ffffff;
+margin-left:5;
+}
+ #panel6 {
+height:50;
+background:#3e9eff;
+layout:hbox;
+width:fill;
+margin-top:5;
+valign:center;
+}
+ #button5 {
+weight:1;
+width:0;
+font-pressed-color:#f2adb2;
+margin-right:5;
+height:35;
+color:#0080ff;
+background:#ffffff;
+margin-left:5;
+}
+ #button6 {
+weight:1;
+width:0;
+font-pressed-color:#f2adb2;
+margin-right:5;
+height:35;
+color:#0080ff;
+background:#ffffff;
+margin-left:5;
+}
+ #button8 {
+weight:1;
+width:0;
+font-pressed-color:#f2adb2;
+margin-right:5;
+height:35;
+color:#0080ff;
+background:#ffffff;
+margin-left:5;
+}

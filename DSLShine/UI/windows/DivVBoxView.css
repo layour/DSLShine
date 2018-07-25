@@ -1,0 +1,287 @@
+ #DivVBoxView {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#F5F5F5;
+width:fill;
+}
+ #navigatorbar0 {
+}
+ #btn_back {
+height:44;
+width:88;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #panel0 {
+margin-right:22;
+halign:left;
+height:fill;
+background:#ffffff;
+layout:vbox;
+width:fill;
+margin-left:22;
+margin-top:8;
+}
+ #panel3 {
+height:160;
+layout:hbox;
+width:fill;
+margin-left:10;
+valign:top;
+}
+ #panel2 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#3c9dff;
+width:100;
+margin-top:5;
+}
+ #label1 {
+halign:left;
+height:wrap;
+color:#ffffff;
+heightWrap:25.0;
+font-size:17;
+width:100;
+margin-left:5;
+font-family:default;
+margin-top:5;
+valign:center;
+}
+ #panel1 {
+height:1;
+layout:hbox;
+background:#808080;
+width:fill;
+valign:center;
+}
+ #button0 {
+width:fill;
+margin-bottom:5;
+font-pressed-color:#f2adb2;
+margin-right:5;
+height:35;
+color:#0080ff;
+background:#ffffff;
+margin-left:5;
+margin-top:5;
+}
+ #button2 {
+width:fill;
+margin-bottom:5;
+font-pressed-color:#f2adb2;
+margin-right:5;
+height:35;
+color:#0080ff;
+background:#ffffff;
+margin-left:5;
+margin-top:5;
+}
+ #panel4 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#3c9dff;
+width:100;
+margin-left:20;
+margin-top:5;
+}
+ #label2 {
+halign:left;
+height:wrap;
+color:#ffffff;
+heightWrap:25.0;
+font-size:17;
+width:100;
+margin-left:5;
+font-family:default;
+margin-top:5;
+valign:center;
+}
+ #panel5 {
+height:1;
+layout:hbox;
+background:#808080;
+width:fill;
+valign:center;
+}
+ #button3 {
+weight:1;
+width:fill;
+margin-bottom:5;
+font-pressed-color:#f2adb2;
+margin-right:5;
+height:0;
+color:#0080ff;
+background:#ffffff;
+margin-left:5;
+margin-top:5;
+}
+ #button4 {
+width:fill;
+margin-bottom:5;
+font-pressed-color:#f2adb2;
+margin-right:5;
+height:35;
+color:#0080ff;
+background:#ffffff;
+margin-left:5;
+margin-top:5;
+}
+ #panel6 {
+height:180;
+layout:hbox;
+width:fill;
+margin-left:10;
+margin-top:20;
+valign:top;
+}
+ #panel7 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#3c9dff;
+width:100;
+margin-top:5;
+}
+ #label3 {
+halign:left;
+height:wrap;
+color:#ffffff;
+heightWrap:25.0;
+font-size:17;
+width:100;
+margin-left:5;
+font-family:default;
+margin-top:5;
+valign:center;
+}
+ #panel8 {
+height:1;
+layout:hbox;
+background:#808080;
+width:fill;
+valign:center;
+}
+ #button5 {
+weight:1;
+width:fill;
+margin-bottom:5;
+font-pressed-color:#f2adb2;
+margin-right:5;
+height:0;
+color:#0080ff;
+background:#ffffff;
+margin-left:5;
+margin-top:5;
+}
+ #button6 {
+weight:1;
+width:fill;
+margin-bottom:5;
+font-pressed-color:#f2adb2;
+margin-right:5;
+height:0;
+color:#0080ff;
+background:#ffffff;
+margin-left:5;
+margin-top:5;
+}
+ #button1 {
+weight:1;
+width:fill;
+margin-bottom:5;
+font-pressed-color:#f2adb2;
+margin-right:5;
+height:0;
+color:#0080ff;
+background:#ffffff;
+margin-left:5;
+margin-top:5;
+}
+ #panel9 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#3c9dff;
+width:100;
+margin-left:20;
+margin-top:5;
+}
+ #label4 {
+halign:left;
+height:wrap;
+color:#ffffff;
+heightWrap:25.0;
+font-size:17;
+width:100;
+margin-left:5;
+font-family:default;
+margin-top:5;
+valign:center;
+}
+ #panel10 {
+height:1;
+layout:hbox;
+background:#808080;
+width:fill;
+valign:center;
+}
+ #button8 {
+weight:2;
+width:fill;
+margin-bottom:5;
+font-pressed-color:#f2adb2;
+margin-right:5;
+height:0;
+color:#0080ff;
+background:#ffffff;
+font-size:14;
+margin-left:5;
+margin-top:5;
+}
+ #button9 {
+margin-right:5;
+height:35;
+color:#0080ff;
+font-size:10;
+background:#ffffff;
+width:fill;
+margin-left:5;
+font-pressed-color:#f2adb2;
+}
+ #button7 {
+width:fill;
+margin-bottom:5;
+font-pressed-color:#f2adb2;
+margin-right:5;
+height:35;
+color:#0080ff;
+background:#ffffff;
+font-size:10;
+margin-left:5;
+margin-top:5;
+}
+ #panel11 {
+weight:1;
+height:0;
+layout:hbox;
+width:120.0;
+valign:center;
+}

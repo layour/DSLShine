@@ -1,0 +1,76 @@
+ #ImageScrollTest {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+valign:TOP;
+}
+ #viewPage0 {
+halign:center;
+height:wrap;
+layout:vbox;
+background:#ffffff;
+width:fill;
+valign:TOP;
+}
+ #navigatorbar0 {
+halign:LEFT;
+}
+ #button0 {
+padding-left:20;
+halign:left;
+height:44;
+pressed-image:btn_back_touch;
+width:88;
+background-image:btn_back;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #label1 {
+halign:left;
+width:fill;
+margin-bottom:10;
+margin-right:22;
+height:wrap;
+color:#000000;
+heightWrap:20.0;
+font-size:14;
+margin-left:22;
+font-family:default;
+margin-top:10;
+valign:center;
+}
+ #gallery0 {
+margin-right:22;
+height:250;
+width:fill;
+margin-left:22;
+}
+ #label2 {
+halign:left;
+width:fill;
+margin-bottom:10;
+margin-right:22;
+height:wrap;
+color:#000000;
+heightWrap:20.0;
+font-size:14;
+margin-left:22;
+font-family:default;
+margin-top:10;
+valign:center;
+}
+ #gallery1 {
+margin-right:22;
+height:250;
+width:fill;
+margin-left:22;
+}

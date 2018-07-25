@@ -1,0 +1,75 @@
+ #EgTouchView {
+halign:center;
+height:fill;
+width:fill;
+layout:vbox;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+width:fill;
+background:#F5F5F5;
+layout:vbox;
+}
+ #navigatorbar0 {
+}
+ #image5 {
+height:44;
+width:88;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #panel0 {
+halign:center;
+height:0;
+weight:1;
+layout:relative;
+width:fill;
+}
+ #label1 {
+halign:center;
+height:20;
+color:#000000;
+font-size:17;
+width:fill;
+font-family:default;
+left:0.0;
+margin-top:10;
+valign:center;
+top:20.0;
+}
+ #redpanel {
+height:50;
+background:#ff0000;
+width:50;
+layout:hbox;
+left:40.0;
+valign:center;
+top:70.0;
+}
+ #greenpanel {
+height:50;
+background:#00ff00;
+width:50;
+layout:hbox;
+left:120.0;
+valign:center;
+top:70.0;
+}
+ #bluepanel {
+height:50;
+background:#0080ff;
+width:50;
+layout:hbox;
+left:200.0;
+valign:center;
+top:70.0;
+}

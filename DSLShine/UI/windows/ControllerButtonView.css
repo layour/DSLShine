@@ -1,0 +1,313 @@
+ #ControllerButtonView {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+valign:TOP;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#F5F5F5;
+width:fill;
+valign:TOP;
+}
+ #navigatorbar0 {
+halign:LEFT;
+}
+ #button0 {
+padding-left:20;
+halign:left;
+height:44;
+pressed-image:btn_back_touch;
+width:88;
+background-image:btn_back;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #panel0 {
+margin-right:22;
+halign:center;
+height:fill;
+layout:vbox;
+background:#ffffff;
+width:fill;
+margin-left:22;
+margin-top:8;
+valign:TOP;
+}
+ #panel1 {
+halign:left;
+height:100;
+layout:vbox;
+width:fill;
+margin-top:10;
+valign:TOP;
+}
+ #label1 {
+halign:left;
+height:wrap;
+color:#000000;
+heightWrap:22.0;
+font-size:15;
+width:fill;
+margin-left:10;
+font-family:default;
+valign:center;
+}
+ #panel2 {
+halign:LEFT;
+height:1;
+background:#c0c0c0;
+layout:hbox;
+width:fill;
+margin-bottom:10;
+margin-top:5;
+valign:center;
+}
+ #button1 {
+height:44;
+color:#ffffff;
+background:#3c9dff;
+width:88;
+margin-left:10;
+}
+ #panel3 {
+halign:center;
+height:0;
+weight:1;
+layout:vbox;
+width:fill;
+valign:TOP;
+}
+ #label2 {
+halign:left;
+height:wrap;
+color:#000000;
+heightWrap:22.0;
+font-size:15;
+width:fill;
+margin-left:10;
+font-family:default;
+valign:center;
+}
+ #panel4 {
+halign:LEFT;
+height:1;
+background:#c0c0c0;
+layout:hbox;
+width:fill;
+margin-bottom:10;
+margin-top:5;
+valign:center;
+}
+ #tabbar0 {
+halign:LEFT;
+height:49;
+layout:hbox;
+width:fill;
+margin-bottom:5;
+valign:center;
+}
+ #tabbaritem0 {
+width:0;
+icon-background-image:tab_fav;
+icon-pressed-image:tab_fav_touch;
+}
+ #tabbaritem1 {
+width:0;
+icon-background-image:tab_contact;
+icon-pressed-image:tab_contact_touch;
+}
+ #tabbaritem2 {
+width:0;
+icon-background-image:tab_message;
+icon-pressed-image:tab_message_touch;
+}
+ #tabbaritem3 {
+width:0;
+icon-background-image:tab_setting;
+icon-pressed-image:tab_setting_touch;
+}
+ #tabbaritem4 {
+width:0;
+icon-background-image:tab_more;
+icon-pressed-image:tab_more_touch;
+}
+ #label3 {
+halign:left;
+height:wrap;
+color:#000000;
+heightWrap:22.0;
+font-size:15;
+width:fill;
+margin-left:10;
+font-family:default;
+margin-top:10;
+valign:center;
+}
+ #panel5 {
+halign:LEFT;
+height:1;
+background:#c0c0c0;
+layout:hbox;
+width:fill;
+margin-top:5;
+valign:center;
+}
+ #toolbar0 {
+halign:LEFT;
+height:44.0;
+layout:hbox;
+width:fill;
+margin-bottom:5;
+valign:center;
+background-image:tabbar;
+}
+ #imagebutton0 {
+weight:1;
+width:0;
+icon-width:25;
+icon-height:25;
+height:fill;
+font-size:10;
+icon-background-image:tool_fav;
+icon-pressed-image:tool_fav_touch;
+icon-text-spacing:3;
+}
+ #imagebutton1 {
+weight:1;
+width:0;
+icon-width:25;
+icon-height:25;
+height:fill;
+font-size:10;
+icon-background-image:tool_edit;
+icon-pressed-image:tool_edit_touch;
+icon-text-spacing:3;
+}
+ #imagebutton2 {
+weight:1;
+width:0;
+icon-width:25;
+icon-height:25;
+height:fill;
+font-size:10;
+icon-background-image:tool_forward;
+icon-pressed-image:tool_forward_touch;
+icon-text-spacing:3;
+}
+ #imagebutton3 {
+weight:1;
+width:0;
+icon-width:25;
+icon-height:25;
+height:fill;
+font-size:10;
+icon-background-image:tool_camera;
+icon-pressed-image:tool_camera_touch;
+icon-text-spacing:3;
+}
+ #imagebutton4 {
+weight:1;
+width:0;
+icon-width:25;
+icon-height:25;
+height:fill;
+font-size:10;
+icon-background-image:tool_del;
+icon-pressed-image:tool_del_touch;
+icon-text-spacing:3;
+}
+ #label4 {
+halign:left;
+height:wrap;
+color:#000000;
+heightWrap:22.0;
+font-size:15;
+width:fill;
+margin-left:10;
+font-family:default;
+valign:center;
+}
+ #toolbar1 {
+padding-right:8;
+padding-left:8;
+halign:LEFT;
+height:44.0;
+layout:hbox;
+width:fill;
+margin-top:5;
+valign:center;
+background-image:tabbar;
+}
+ #button2 {
+halign:left;
+width:44;
+}
+ #label5 {
+halign:center;
+height:wrap;
+weight:1;
+color:#000000;
+heightWrap:44.0;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #button3 {
+width:44;
+}
+ #label6 {
+halign:center;
+height:wrap;
+weight:1;
+color:#000000;
+heightWrap:44.0;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #button4 {
+width:44;
+}
+ #label7 {
+halign:center;
+height:wrap;
+weight:1;
+color:#000000;
+heightWrap:44.0;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #button5 {
+width:44;
+}
+ #label8 {
+halign:center;
+height:wrap;
+weight:1;
+color:#000000;
+heightWrap:44.0;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #button6 {
+halign:right;
+width:44;
+}

@@ -1,0 +1,82 @@
+ #ControllerProgressView {
+halign:center;
+height:fill;
+width:fill;
+layout:vbox;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+width:fill;
+background:#F5F5F5;
+layout:vbox;
+}
+ #navigatorbar0 {
+}
+ #backbtn {
+padding-left:20;
+halign:left;
+height:44;
+pressed-image:btn_back_touch;
+width:88;
+background-image:btn_back;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #panel0 {
+margin-right:22;
+halign:center;
+height:fill;
+layout:vbox;
+background:#ffffff;
+width:fill;
+margin-left:22;
+margin-top:8;
+}
+ #label1 {
+halign:left;
+height:wrap;
+color:#000000;
+heightWrap:25.0;
+font-size:17;
+width:fill;
+margin-left:10;
+font-family:default;
+valign:center;
+}
+ #progressbar0 {
+margin-right:10;
+height:15;
+width:fill;
+progresscolor:#0000ff;
+margin-left:10;
+margin-top:10;
+}
+ #label2 {
+halign:left;
+height:wrap;
+color:#000000;
+heightWrap:25.0;
+font-size:17;
+width:fill;
+margin-left:10;
+font-family:default;
+margin-top:20;
+valign:center;
+}
+ #range0 {
+margin-right:10;
+halign:LEFT;
+height:36;
+width:fill;
+margin-left:10;
+margin-top:10;
+}

@@ -1,0 +1,97 @@
+ #ControllerListView {
+halign:center;
+height:fill;
+width:fill;
+layout:vbox;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+width:fill;
+background:#F5F5F5;
+layout:vbox;
+}
+ #navigatorbar0 {
+}
+ #backbtn {
+padding-left:20;
+halign:left;
+height:44;
+pressed-image:btn_back_touch;
+width:88;
+background-image:btn_back;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #panel0 {
+margin-right:22;
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+margin-left:22;
+margin-top:8;
+}
+ #panel5 {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+}
+ #listviewdefine0 {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+}
+ #panel1 {
+height:60.0;
+layout:hbox;
+width:fill;
+valign:center;
+}
+ #panel2 {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+}
+ #panel3 {
+height:59.0;
+background:#FFFFFF;
+layout:hbox;
+width:fill;
+valign:center;
+}
+ #image0 {
+height:44;
+width:44;
+margin-left:5;
+}
+ #label1 {
+halign:left;
+height:wrap;
+weight:1;
+color:#000000;
+heightWrap:23.0;
+font-size:16;
+width:0;
+margin-left:10;
+font-family:default;
+valign:center;
+}
+ #panel4 {
+height:1;
+background:#808080;
+layout:hbox;
+width:fill;
+valign:center;
+}

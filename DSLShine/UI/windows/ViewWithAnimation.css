@@ -1,0 +1,67 @@
+ #ViewWithAnimation {
+halign:center;
+height:fill;
+width:fill;
+layout:vbox;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+width:fill;
+background:#f0f0f0;
+layout:vbox;
+}
+ #navigatorbar0 {
+}
+ #image5 {
+height:44;
+width:88;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+}
+ #listviewdefine0 {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+}
+ #panel0 {
+halign:center;
+height:60.0;
+background:#FFFFFF;
+layout:vbox;
+width:fill;
+}
+ #panel1 {
+height:0;
+weight:1;
+background:#FFFFFF;
+layout:hbox;
+width:fill;
+valign:center;
+}
+ #label1 {
+halign:center;
+height:wrap;
+widthWrap:36.0;
+color:#000000;
+heightWrap:25.0;
+font-size:17;
+width:wrap;
+margin-left:8;
+font-family:default;
+}
+ #panel2 {
+height:1;
+background:#c7c7c7;
+layout:hbox;
+width:fill;
+valign:center;
+}

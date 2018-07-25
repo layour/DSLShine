@@ -1,0 +1,208 @@
+ #AboutTelUpdateView {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+valign:TOP;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#F5F5F5;
+width:fill;
+valign:TOP;
+}
+ #navigatorbar0 {
+halign:LEFT;
+}
+ #btn_back {
+height:44;
+width:88;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #label1 {
+halign:center;
+height:wrap;
+widthWrap:36.0;
+color:#ffffff;
+heightWrap:25.0;
+font-size:17;
+width:wrap;
+font-family:default;
+valign:center;
+}
+ #panel0 {
+halign:center;
+height:0;
+weight:1;
+background:#f0f0f0;
+layout:vbox;
+width:fill;
+valign:TOP;
+}
+ #panel1 {
+margin-right:22;
+halign:LEFT;
+height:60.0;
+layout:hbox;
+width:fill;
+margin-left:22;
+margin-top:20;
+valign:center;
+}
+ #image0 {
+height:44;
+width:44;
+}
+ #panel2 {
+halign:center;
+height:60.0;
+width:fill;
+layout:vbox;
+margin-left:20;
+valign:TOP;
+}
+ #label2 {
+halign:left;
+height:30.0;
+color:#000000;
+font-size:17;
+width:fill;
+font-family:default;
+valign:center;
+}
+ #label3 {
+halign:left;
+height:30.0;
+color:#000000;
+font-size:14;
+width:fill;
+font-family:default;
+valign:center;
+}
+ #panel3 {
+margin-right:16;
+halign:LEFT;
+height:80;
+layout:hbox;
+width:fill;
+margin-left:16;
+margin-top:42;
+valign:center;
+}
+ #panel6 {
+halign:center;
+height:fill;
+weight:1;
+width:0;
+layout:vbox;
+valign:TOP;
+}
+ #label4 {
+halign:left;
+height:33.0;
+color:#158aff;
+font-size:15;
+width:fill;
+margin-bottom:5;
+font-family:default;
+margin-top:12;
+valign:center;
+}
+ #teltextbox {
+padding-left:10;
+halign:LEFT;
+height:30;
+color:#167ef8;
+background:#ffffff;
+font-size:17;
+width:fill;
+font-family:default;
+}
+ #panel4 {
+margin-right:16;
+halign:LEFT;
+height:80;
+layout:hbox;
+width:fill;
+margin-left:16;
+valign:center;
+border-bottom-color:#808080;
+}
+ #panel7 {
+halign:center;
+height:fill;
+weight:1;
+width:0;
+layout:vbox;
+valign:TOP;
+}
+ #label6 {
+halign:left;
+height:33.0;
+color:#158aff;
+font-size:15;
+width:fill;
+margin-bottom:5;
+font-family:default;
+margin-top:12;
+valign:center;
+}
+ #mailtextbox {
+padding-left:10;
+halign:LEFT;
+height:30;
+color:#167ef8;
+background:#ffffff;
+font-size:17;
+width:fill;
+font-family:default;
+}
+ #panel5 {
+margin-right:16;
+halign:LEFT;
+height:80;
+layout:hbox;
+width:fill;
+margin-left:16;
+valign:center;
+}
+ #panel8 {
+halign:center;
+height:fill;
+weight:1;
+width:0;
+layout:vbox;
+valign:TOP;
+}
+ #label8 {
+halign:left;
+height:33.0;
+color:#158aff;
+font-size:15;
+width:fill;
+margin-bottom:5;
+font-family:default;
+margin-top:12;
+valign:center;
+}
+ #webtextbox {
+padding-left:10;
+halign:LEFT;
+height:30;
+color:#167ef8;
+background:#ffffff;
+font-size:17;
+width:fill;
+font-family:default;
+}

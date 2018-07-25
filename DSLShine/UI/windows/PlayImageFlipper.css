@@ -1,0 +1,40 @@
+ #PlayImageFlipper {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#F5F5F5;
+width:fill;
+}
+ #navigatorbar0 {
+}
+ #btn_back {
+height:44;
+width:88;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #panel0 {
+halign:center;
+weight:1;
+height:0;
+width:fill;
+layout:vbox;
+}
+ #imageflipper0 {
+height:fill;
+width:fill;
+}

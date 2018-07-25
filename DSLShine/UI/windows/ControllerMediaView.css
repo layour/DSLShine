@@ -1,0 +1,184 @@
+ #ControllerMediaView {
+halign:center;
+height:fill;
+width:fill;
+layout:vbox;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+width:fill;
+background:#F5F5F5;
+layout:vbox;
+}
+ #navigatorbar0 {
+}
+ #image5 {
+height:44;
+width:88;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #panel0 {
+padding-right:5;
+padding-left:5;
+margin-right:22;
+halign:center;
+height:fill;
+background:#ffffff;
+layout:vbox;
+width:fill;
+margin-left:22;
+margin-top:8;
+}
+ #panel1 {
+height:100;
+layout:hbox;
+width:fill;
+margin-top:14;
+valign:center;
+}
+ #panel2 {
+margin-right:7;
+halign:center;
+height:fill;
+weight:1;
+background:#ff6060;
+layout:vbox;
+width:0;
+}
+ #image0 {
+height:50;
+width:70;
+margin-top:10;
+}
+ #label1 {
+halign:center;
+height:wrap;
+widthWrap:38.0;
+color:#ffffff;
+heightWrap:26.0;
+font-size:18;
+width:wrap;
+font-family:default;
+margin-top:10;
+valign:center;
+}
+ #panel3 {
+halign:center;
+height:fill;
+weight:1;
+background:#00aa2b;
+layout:vbox;
+width:0;
+margin-left:7;
+}
+ #image1 {
+height:50;
+width:70;
+margin-top:10;
+}
+ #label2 {
+halign:center;
+height:wrap;
+widthWrap:38.0;
+color:#ffffff;
+heightWrap:26.0;
+font-size:18;
+width:wrap;
+font-family:default;
+margin-top:10;
+valign:center;
+}
+ #panel4 {
+height:100;
+layout:hbox;
+width:fill;
+margin-top:14;
+valign:center;
+}
+ #panel5 {
+margin-right:7;
+halign:center;
+height:fill;
+weight:1;
+background:#dd6f00;
+layout:vbox;
+width:0;
+}
+ #image2 {
+height:50;
+width:70;
+margin-top:10;
+}
+ #label3 {
+halign:center;
+height:wrap;
+widthWrap:38.0;
+color:#ffffff;
+heightWrap:26.0;
+font-size:18;
+width:wrap;
+font-family:default;
+margin-top:10;
+valign:center;
+}
+ #panel6 {
+halign:center;
+height:fill;
+weight:1;
+background:#3c9dff;
+layout:vbox;
+width:0;
+margin-left:7;
+}
+ #image3 {
+height:50;
+width:70;
+margin-top:10;
+}
+ #label4 {
+halign:center;
+height:wrap;
+widthWrap:38.0;
+color:#ffffff;
+heightWrap:26.0;
+font-size:18;
+width:wrap;
+font-family:default;
+margin-top:10;
+valign:center;
+}
+ #panel7 {
+halign:center;
+height:100;
+background:#3c9dff;
+layout:vbox;
+width:fill;
+margin-top:14;
+}
+ #image4 {
+height:50;
+width:70;
+margin-top:10;
+}
+ #label5 {
+halign:center;
+height:wrap;
+widthWrap:130.0;
+color:#ffffff;
+heightWrap:26.0;
+font-size:18;
+width:wrap;
+font-family:default;
+margin-top:10;
+valign:center;
+}

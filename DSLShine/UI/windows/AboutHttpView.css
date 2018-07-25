@@ -1,0 +1,94 @@
+ #AboutHttpView {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+valign:TOP;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#F5F5F5;
+width:fill;
+valign:TOP;
+}
+ #navigatorbar0 {
+halign:LEFT;
+}
+ #btn_back {
+height:44;
+width:88;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #panel0 {
+margin-right:22;
+halign:center;
+height:0;
+weight:1;
+background:#ffffff;
+layout:vbox;
+width:fill;
+margin-left:22;
+margin-top:8;
+valign:TOP;
+}
+ #panel1 {
+margin-right:10;
+halign:LEFT;
+height:44;
+layout:hbox;
+width:fill;
+margin-left:10;
+margin-top:8;
+valign:center;
+background-image:frame_circlediv.png;
+}
+ #label1 {
+halign:center;
+height:wrap;
+widthWrap:40.0;
+color:#000000;
+heightWrap:25.0;
+font-size:17;
+width:wrap;
+font-family:default;
+valign:center;
+}
+ #textbox0 {
+padding-left:10;
+halign:LEFT;
+height:44;
+weight:1;
+color:#167ef8;
+font-size:17;
+width:0;
+font-family:default;
+}
+ #getbtn {
+width:fill;
+margin-right:10;
+height:44;
+color:#ffffff;
+background:#ffa346;
+margin-left:10;
+margin-top:20;
+}
+ #postbtn {
+width:fill;
+margin-right:10;
+height:44;
+color:#ffffff;
+background:#ffa346;
+margin-left:10;
+margin-top:10;
+}

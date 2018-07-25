@@ -1,0 +1,167 @@
+ #ControllerPickerView {
+halign:center;
+height:800;
+width:fill;
+layout:vbox;
+valign:TOP;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+width:fill;
+background:#F5F5F5;
+layout:vbox;
+valign:TOP;
+}
+ #navigatorbar0 {
+halign:LEFT;
+}
+ #image5 {
+height:44;
+width:88;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #panel0 {
+margin-right:22;
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+margin-left:22;
+margin-top:8;
+valign:TOP;
+}
+ #rounddiv0 {
+padding-left:8;
+padding-right:8;
+halign:center;
+height:fill;
+background:#ffffff;
+layout:vbox;
+width:fill;
+margin-bottom:20;
+valign:TOP;
+}
+ #panel1 {
+halign:LEFT;
+height:35;
+layout:hbox;
+width:fill;
+valign:center;
+}
+ #label1 {
+halign:left;
+height:wrap;
+weight:1;
+color:#000000;
+heightWrap:25.0;
+font-size:17;
+width:0;
+font-family:default;
+valign:center;
+}
+ #button0 {
+height:44;
+weight:1;
+width:0;
+font-pressed-color:#f2adb2;
+}
+ #panel2 {
+halign:LEFT;
+height:35;
+layout:hbox;
+width:fill;
+valign:center;
+}
+ #label2 {
+halign:left;
+height:wrap;
+weight:1;
+color:#000000;
+heightWrap:25.0;
+font-size:17;
+width:0;
+font-family:default;
+valign:center;
+}
+ #button1 {
+height:44;
+weight:1;
+width:0;
+font-pressed-color:#f2adb2;
+}
+ #panel3 {
+halign:LEFT;
+height:35;
+layout:hbox;
+width:fill;
+valign:center;
+}
+ #label3 {
+halign:left;
+height:wrap;
+weight:1;
+color:#000000;
+heightWrap:25.0;
+font-size:17;
+width:0;
+font-family:default;
+valign:center;
+}
+ #button2 {
+height:44;
+weight:1;
+width:0;
+font-pressed-color:#f2adb2;
+}
+ #datelabel {
+halign:left;
+height:wrap;
+color:#000000;
+heightWrap:25.0;
+font-size:17;
+width:fill;
+font-family:default;
+margin-top:20;
+valign:center;
+}
+ #datepicker0 {
+padding-left:4;
+halign:LEFT;
+height:216;
+font-size:17;
+background:#ffffff;
+width:fill;
+font-family:default;
+margin-top:8;
+}
+ #timelabel {
+halign:left;
+height:wrap;
+color:#000000;
+heightWrap:25.0;
+font-size:17;
+width:fill;
+font-family:default;
+margin-top:20;
+valign:center;
+}
+ #timepicker0 {
+padding-left:4;
+halign:LEFT;
+height:216;
+font-size:17;
+background:#ffffff;
+width:fill;
+font-family:default;
+margin-top:8;
+}

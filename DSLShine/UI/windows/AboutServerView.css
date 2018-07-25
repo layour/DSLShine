@@ -1,0 +1,127 @@
+ #AboutServerView {
+halign:center;
+height:fill;
+width:fill;
+layout:vbox;
+valign:TOP;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+width:fill;
+background:#F5F5F5;
+layout:vbox;
+valign:TOP;
+}
+ #navigatorbar0 {
+halign:LEFT;
+}
+ #btn_back {
+height:44;
+width:88;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #panel0 {
+margin-right:22;
+halign:center;
+height:0;
+weight:1;
+layout:vbox;
+background:#ffffff;
+width:fill;
+margin-left:22;
+margin-top:8;
+valign:TOP;
+}
+ #panel1 {
+margin-right:10;
+halign:LEFT;
+height:44;
+layout:hbox;
+width:fill;
+margin-left:10;
+margin-top:10;
+valign:center;
+background-image:frame_circlediv.png;
+}
+ #label1 {
+halign:center;
+height:wrap;
+widthWrap:41.0;
+color:#000000;
+heightWrap:25.0;
+font-size:17;
+width:wrap;
+margin-left:10;
+font-family:default;
+valign:center;
+}
+ #host {
+padding-left:10;
+halign:LEFT;
+height:44.0;
+weight:1;
+color:#167ef8;
+font-size:17;
+width:0;
+font-family:default;
+}
+ #panel2 {
+margin-right:10;
+halign:LEFT;
+height:44;
+layout:hbox;
+width:fill;
+margin-left:10;
+margin-top:15;
+valign:center;
+background-image:frame_circlediv.png;
+}
+ #label2 {
+halign:center;
+height:wrap;
+widthWrap:39.0;
+color:#000000;
+heightWrap:25.0;
+font-size:17;
+width:wrap;
+margin-left:10;
+font-family:default;
+valign:center;
+}
+ #port {
+padding-left:10;
+halign:LEFT;
+height:44;
+weight:1;
+color:#167ef8;
+font-size:17;
+width:0;
+font-family:default;
+}
+ #panel3 {
+halign:LEFT;
+height:60.0;
+layout:hbox;
+width:fill;
+margin-top:10;
+valign:center;
+}
+ #button0 {
+weight:1;
+width:0;
+margin-right:10;
+height:44;
+color:#ffffff;
+background:#ffa346;
+margin-left:10;
+}

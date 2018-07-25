@@ -1,0 +1,132 @@
+ #ServiceView {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+background:#F5F5F5;
+}
+ #navigatorbar0 {
+padding-right:0;
+padding-left:0;
+}
+ #panel4 {
+padding-left:8;
+height:fill;
+layout:hbox;
+width:96;
+valign:center;
+}
+ #image0 {
+height:44;
+width:88;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #panel1 {
+halign:center;
+height:0;
+weight:1;
+layout:vbox;
+width:fill;
+}
+ #listviewdefine0 {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+}
+ #panel0 {
+halign:center;
+height:70;
+background:#FFFFFF;
+layout:vbox;
+width:fill;
+}
+ #panel2 {
+height:0;
+weight:1;
+layout:hbox;
+background:#FFFFFF;
+width:fill;
+valign:center;
+}
+ #panel6 {
+height:fill;
+layout:hbox;
+background:#ffffff;
+width:fill;
+valign:center;
+}
+ #panel5 {
+height:fill;
+layout:hbox;
+background:#ffffff;
+width:22;
+margin-left:10;
+valign:center;
+}
+ #image2 {
+height:22;
+width:22;
+}
+ #panel7 {
+halign:center;
+height:fill;
+weight:1;
+background:#ffffff;
+layout:vbox;
+width:0;
+margin-left:15;
+}
+ #label1 {
+halign:left;
+height:30;
+color:#000000;
+font-size:18;
+width:fill;
+font-family:default;
+margin-top:5;
+valign:center;
+}
+ #label2 {
+halign:left;
+height:25;
+color:#000000;
+font-size:14;
+width:fill;
+font-family:default;
+valign:center;
+}
+ #panel8 {
+margin-right:15;
+height:fill;
+background:#ffffff;
+layout:hbox;
+width:8;
+valign:center;
+}
+ #image1 {
+height:12;
+width:8;
+}
+ #panel3 {
+height:1;
+background:#c7c7c7;
+layout:hbox;
+width:fill;
+valign:center;
+}

@@ -1,0 +1,96 @@
+ #Input_focus {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+valign:TOP;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#F5F5F5;
+width:fill;
+valign:TOP;
+}
+ #navigatorbar0 {
+halign:LEFT;
+}
+ #button3 {
+padding-left:20;
+halign:left;
+height:44;
+pressed-image:btn_back_touch;
+width:88;
+background-image:btn_back;
+}
+ #label2 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #textbox0 {
+padding-left:4;
+halign:LEFT;
+height:44;
+color:#167ef8;
+background:#ffffff;
+font-size:17;
+width:200;
+font-family:default;
+margin-top:10;
+}
+ #number0 {
+padding-left:4;
+padding-right:4;
+halign:RIGHT;
+height:44;
+color:#167ef8;
+font-size:17;
+background:#ffffff;
+width:200;
+margin-bottom:10;
+font-family:default;
+margin-top:10;
+}
+ #email0 {
+padding-left:4;
+halign:LEFT;
+height:44;
+color:#167ef8;
+font-size:17;
+background:#ffffff;
+width:200;
+margin-bottom:10;
+font-family:default;
+}
+ #textbox1 {
+padding-left:4;
+halign:LEFT;
+height:44;
+color:#167ef8;
+font-size:17;
+background:#ffffff;
+width:200;
+font-family:default;
+}
+ #button0 {
+height:44;
+widthWrap:72.0;
+width:wrap;
+}
+ #button1 {
+height:44;
+widthWrap:72.0;
+width:wrap;
+}
+ #button2 {
+height:44;
+widthWrap:72.0;
+width:wrap;
+}

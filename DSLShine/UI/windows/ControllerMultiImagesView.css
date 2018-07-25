@@ -1,0 +1,185 @@
+ #ControllerMultiImagesView {
+halign:center;
+height:fill;
+layout:vbox;
+width:fill;
+valign:TOP;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#F5F5F5;
+width:fill;
+valign:TOP;
+}
+ #navigatorbar0 {
+halign:LEFT;
+}
+ #button0 {
+padding-left:20;
+halign:left;
+height:44;
+pressed-image:btn_back_touch;
+width:88;
+background-image:btn_back;
+}
+ #label0 {
+halign:center;
+height:fill;
+weight:1;
+color:#000000;
+font-size:14;
+width:0;
+font-family:default;
+valign:center;
+}
+ #panel0 {
+halign:center;
+height:fill;
+layout:vbox;
+background:#ffffff;
+width:fill;
+margin-bottom:8;
+margin-top:8;
+valign:TOP;
+}
+ #panel1 {
+padding-left:15;
+padding-right:15;
+halign:LEFT;
+height:80;
+layout:hbox;
+width:fill;
+valign:center;
+}
+ #panel5 {
+halign:CENTER;
+height:fill;
+weight:1;
+layout:hbox;
+width:0;
+valign:center;
+}
+ #image1 {
+height:80;
+width:80;
+}
+ #panel6 {
+halign:CENTER;
+height:fill;
+weight:1;
+layout:hbox;
+width:0;
+valign:center;
+}
+ #image2 {
+height:80;
+width:80;
+}
+ #panel7 {
+halign:CENTER;
+height:fill;
+weight:1;
+layout:hbox;
+width:0;
+valign:center;
+}
+ #image3 {
+height:80;
+width:80;
+}
+ #panel3 {
+padding-left:15;
+padding-right:15;
+halign:CENTER;
+height:80;
+layout:hbox;
+width:fill;
+display:none;
+margin-top:10;
+valign:center;
+}
+ #panel8 {
+halign:CENTER;
+height:fill;
+weight:1;
+layout:hbox;
+width:0;
+valign:center;
+}
+ #image4 {
+height:80;
+width:80;
+}
+ #panel9 {
+halign:CENTER;
+height:fill;
+weight:1;
+layout:hbox;
+width:0;
+valign:center;
+}
+ #image5 {
+height:80;
+width:80;
+}
+ #panel10 {
+halign:CENTER;
+height:fill;
+weight:1;
+layout:hbox;
+width:0;
+valign:center;
+}
+ #image6 {
+height:80;
+width:80;
+}
+ #panel4 {
+padding-left:15;
+padding-right:15;
+halign:LEFT;
+height:80;
+layout:hbox;
+width:fill;
+display:none;
+margin-top:10;
+valign:center;
+}
+ #panel11 {
+halign:CENTER;
+height:fill;
+weight:1;
+layout:hbox;
+width:0;
+valign:center;
+}
+ #image7 {
+height:80;
+width:80;
+}
+ #panel12 {
+halign:CENTER;
+height:fill;
+weight:1;
+layout:hbox;
+width:0;
+valign:center;
+}
+ #image8 {
+height:80;
+width:80;
+}
+ #panel13 {
+halign:CENTER;
+height:fill;
+weight:1;
+layout:hbox;
+width:0;
+valign:center;
+}
+ #image9 {
+height:80;
+width:80;
+}
